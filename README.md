@@ -1,3 +1,6 @@
+# Smart Crop Defender
+An Effective Solution For Crops and Farmers
+
 # 🌱 Smart Crop Defender
 
 Smart Crop Defender is a machine learning–based application designed to detect plant diseases from leaf images.  
