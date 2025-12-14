@@ -36,29 +36,29 @@ Smart_Crop_Defender/<br>
 ---
 
 ## ⚙️ How It Works
-1. Dataset images are preprocessed and labeled  
-2. A CNN model is trained using Keras  
-3. The trained model is saved for reuse  
-4. New plant images are tested for disease prediction  
+1. Dataset images are preprocessed and labeled  <br>
+2. A CNN model is trained using Keras  <br>
+3. The trained model is saved for reuse  <br>
+4. New plant images are tested for disease prediction  <br>
 
 ---
 
 ## ▶️ How to Run
-```bash
+```bash<br>
 pip install tensorflow numpy opencv-python
 python app_2.py 
 ```
 
-# 📌 Use Cases
-~Crop health monitoring
-~Agricultural research
-~Smart farming applications
-~AI-based disease detection systems
+## 📌 Use Cases
+~Crop health monitoring<br>
+~Agricultural research<br>
+~Smart farming applications<br>
+~AI-based disease detection systems<br>
 
 ---
 
-# 🔮 Future Enhancements
--Support for more crop types
--Web & mobile deployment
--Real-time camera-based detection
--Accuracy improvement with larger datasets
+## 🔮 Future Enhancements
+-Support for more crop types<br>
+-Web & mobile deployment<br>
+-Real-time camera-based detection<br>
+-Accuracy improvement with larger datasets<br>
