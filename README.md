@@ -24,13 +24,13 @@ The project aims to support early disease identification to help farmers and res
 ---
 
 ## 📂 Project Structure
-Smart_Crop_Defender/
-│── Advanced Dataset on Money Plant Diseases/
-│── Plant_disease_model_3.keras
-│── train_3.py
-│── test_2.py
-│── app_2.py
-│── templates.zip
+Smart_Crop_Defender/<br>
+│── Advanced Dataset on Money Plant Diseases<br>
+│── Plant_disease_model_3.keras<br>
+│── train_3.py<br>
+│── test_2.py<br>
+│── app_2.py<br>
+│── templates.zip<br>
 
 
 ---
